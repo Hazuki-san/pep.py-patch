@@ -56,10 +56,9 @@ def faq(fro, chan, message):
 		"swearing": "Please don't abuse swearing",
 		"spam": "Please don't spam",
 		"offend": "Please don't offend other players",
-		"github": "(osu!Ainu's Github page!)[https://github.com/osuripple/ripple]",
-		"discord": "(Join Ainu Discord!)[https://discord.gg/0rJcZruIsA6rXuIx]",
+		"github": "(osu!Ainu's Github page!)[https://github.com/osuthailand]",
+		"discord": "(Join Ainu Discord!)[https://discord.gg/cnaDpVY]",
 		"changelog": "Check the (changelog)[https://bigtu.vip/changelog] !",
-		"status": "Check the server status (here!)[https://status.bigtu.vip]",
 		"english": "Please keep this channel in english.",
 		"topic": "Can you please drop the topic and talk about something else?",
 		"lines": "Please try to keep your sentences on a single line to avoid getting silenced."
